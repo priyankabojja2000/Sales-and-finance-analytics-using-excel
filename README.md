@@ -1,4 +1,4 @@
-# Atliq Hardware Business Intelligence Reports
+# Atliq Hardware Sales and Finance Insights Reports
 
 ## Introduction
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi and they have many regional office through out the India.
